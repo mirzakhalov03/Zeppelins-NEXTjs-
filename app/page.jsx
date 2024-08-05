@@ -61,9 +61,9 @@ export default function Home() {
           <br />
           <br />
           <br />
-          <div className="card-wrapper w-full flex  flex-wrap items-center gap-10 py-5">
-            <div className="card w-[600px] h-[650px] shadow-custom">
-              <img className="w-full h-[400px] object-contain" src="/hero.png" alt="" />
+          <div className="card-wrapper w-[90%] flex mb-[200px] mx-auto flex-wrap items-center gap-7 py-5">
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card1.png" alt="" />
               <div className="card-content p-5">
                 <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
@@ -72,12 +72,62 @@ export default function Home() {
                 <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
-            <div className="card w-[600px] h-[650px] "></div>
-            <div className="card w-[600px] h-[650px] "></div>
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card2.png" alt="" />
+              <div className="card-content p-5">
+                <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
+                <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
+                <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
+                <br />
+                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+              </div>
+            </div>
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card1.png" alt="" />
+              <div className="card-content p-5">
+                <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
+                <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
+                <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
+                <br />
+                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+              </div>
+            </div>
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card2.png" alt="" />
+              <div className="card-content p-5">
+                <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
+                <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
+                <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
+                <br />
+                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+              </div>
+            </div>
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card1.png" alt="" />
+              <div className="card-content p-5">
+                <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
+                <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
+                <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
+                <br />
+                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+              </div>
+            </div>
+            <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
+              <img className="w-full h-[400px] object-cover" src="/card2.png" alt="" />
+              <div className="card-content p-5">
+                <p className="text-[#424242] text-[14px]">Nov 23, 2020</p>
+                <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
+                <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
+                <br />
+                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      <footer className="w-full p-8 mt-4 bg-[#F9F9F9] flex items-center justify-center">DEREL ARTWORK</footer>
+      <footer className="w-full h-[300px] p-8 mt-4 bg-[#F9F9F9] flex items-center justify-center">
+        <img src="/footer.svg" alt="" />
+      </footer>
         
     
     </>
