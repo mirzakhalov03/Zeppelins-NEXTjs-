@@ -69,7 +69,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="/singlePage" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
             <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
@@ -79,7 +79,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="singlePage2" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
             <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
@@ -89,7 +89,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="/singlePage" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
             <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
@@ -99,7 +99,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="singlePage2" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
             <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
@@ -109,7 +109,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="/singlePage" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
             <div className="card max-w-[600px] w-[100%] h-[650px] shadow-custom">
@@ -119,7 +119,7 @@ export default function Home() {
                 <h1 className="text-[24px] mt-3 text-[#D05270] font-semibold">This way is wrong about UI Design.</h1>
                 <p className="text-[#42424290]">A quick guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. </p>
                 <br />
-                <a href="#" className="underline text-[#D05270] text-xl">Read More</a>
+                <a href="/singlePage2" className="underline text-[#D05270] text-xl">Read More</a>
               </div>
             </div>
           </div>
