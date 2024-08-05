@@ -88,6 +88,9 @@ const page = () => {
             </div>
 
         </main>
+        <footer className="w-full h-[300px] p-8 mt-4 bg-[#F9F9F9] flex items-center justify-center">
+        <img src="/footer.svg" alt="" />
+      </footer>
     
     </>
   )
